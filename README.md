@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hallowing&show_icons=true&bg_color=DEG,#833ab4,#fd1d1d,#fcb045)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hallowing&theme=material-palenight)
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&linkhttps://www.facebook.com/profile.php?id=100012454239777)](https://www.facebook.com/profile.php?id=100012454239777)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwp7581@gmail.com)](mailto:dlwp7581@gmail.com)
