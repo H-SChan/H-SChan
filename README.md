@@ -4,9 +4,9 @@
 
 <br>
 
-<center> 더 발전 할 내일의 나를 위해 항상 발전하는 개발자 <strong>허새찬<strong>입니다. </center>
+<!-- <center> 더 발전 할 내일의 나를 위해 항상 발전하는 개발자 <strong>허새찬<strong>입니다. </center>
  
- 주로 JAVA/SpringBoot를 활용하여 서버 개발을 하고, 필요에 따라 KOTLIN을 사용할 수 있습니다.
+ 주로 JAVA/SpringBoot를 활용하여 서버 개발을 하고, 필요에 따라 KOTLIN을 사용할 수 있습니다. -->
 
 <!-- 대구소프트웨어마이스터고등학교 재학중 (20.03 ~ 23.03) -->
 
